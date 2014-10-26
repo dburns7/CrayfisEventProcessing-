@@ -1,0 +1,1 @@
+This repo is for processing raw data files, sorting events by timestamp and clustering them by GPS coordinates, so that the appropriate arrays can be sent to the shower fitter. 
